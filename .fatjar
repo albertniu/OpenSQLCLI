@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Mar 15 19:34:11 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=opensqlcli.jar
+manifest.mergeall=true
+manifest.mainclass=OpenSQLCLI.main.CLI
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
